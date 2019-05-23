@@ -83,12 +83,12 @@ author:
   name             : "Yaxing Yao"
   avatar           : "profile.png"
   bio              : "Fifth year PhD Candidate in the School of Information Studies at Syracuse University."
-  location         : "Location"
+  location         : "Syracuse, New York"
   employer         :
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  email            : "yyao08@syr.edu"
+  # researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
