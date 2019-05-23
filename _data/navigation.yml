@@ -4,19 +4,19 @@ main:
     url: http://yaoyx531.github.io/home/publications/
 
   - title: "Talks"
-    url: /talks/    
+    url: http://yaoyx531.github.io/home/talks/    
 
   - title: "Teaching"
-    url: /teaching/    
+    url: http://yaoyx531.github.io/home/teaching/    
     
   - title: "Portfolio"
-    url: /portfolio/
+    url: http://yaoyx531.github.io/home/portfolio/
         
   - title: "Blog Posts"
-    url: /year-archive/
+    url: http://yaoyx531.github.io/home/year-archive/
     
   - title: "CV"
-    url: /cv/
+    url: http://yaoyx531.github.io/home/cv/
     
   - title: "Guide"
-    url: /markdown/
+    url: http://yaoyx531.github.io/home/markdown/
