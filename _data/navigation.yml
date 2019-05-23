@@ -12,8 +12,8 @@ main:
   - title: "Portfolio"
     url: http://yaoyx531.github.io/home/portfolio/
         
-  - title: "Blog Posts"
-    url: http://yaoyx531.github.io/home/year-archive/
+  # - title: "Blog Posts"
+    # url: http://yaoyx531.github.io/home/year-archive/
     
   - title: "CV"
     url: http://yaoyx531.github.io/home/cv/
