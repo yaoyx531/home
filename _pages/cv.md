@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+[Download my CV here](http://yaoyx531.github.io/files/YaxingYao_CV.pdf)
+
 Education
 ======
 * B.S. in GitHub, GitHub University, 2012
