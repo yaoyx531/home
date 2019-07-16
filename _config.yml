@@ -86,7 +86,7 @@ author:
   location         : "Syracuse, New York"
   employer         :
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?user=zt8mnzgAAAAJ&hl=en"
   email            : "yyao08@syr.edu"
   # researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -97,7 +97,7 @@ author:
   facebook         :
   foursquare       :
   github           : "academicpages"
-  google_plus      : "https://scholar.google.com/citations?user=zt8mnzgAAAAJ&hl=en"
+  google_plus      : 
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
