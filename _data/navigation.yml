@@ -9,8 +9,8 @@ main:
   - title: "Teaching"
     url: http://yaoyx531.github.io/home/teaching/    
     
-  - title: "Portfolio"
-    url: http://yaoyx531.github.io/home/portfolio/
+  # - title: "Portfolio"
+  #   url: http://yaoyx531.github.io/home/portfolio/
         
   # - title: "Blog Posts"
     # url: http://yaoyx531.github.io/home/year-archive/
@@ -18,5 +18,5 @@ main:
   - title: "CV"
     url: http://yaoyx531.github.io/home/cv/
     
-  - title: "Guide"
-    url: http://yaoyx531.github.io/home/markdown/
+  # - title: "Guide"
+  #   url: http://yaoyx531.github.io/home/markdown/
