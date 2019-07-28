@@ -1,6 +1,6 @@
 ---
 title: "Flying Eyes and Hidden Controllers: A Qualitative Study of People's Privacy Perceptions of Civilian Drones in the US."
-collection: publications
+collection: conferences
 permalink: /publication/2015-10-01-paper-title-number-3
 excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
 date: 2016-03-01
